@@ -11,7 +11,7 @@
   // "editor.fontLigatures": "'zero' on, 'ss02' on,'ss04' on, 'ss06' on,'ss07' on, 'ss08' on, 'calt' on, 'liga' on",
   "editor.fontLigatures": " 'cv12', 'cv14', 'ss05', 'ss04', 'ss03', 'cv31', 'ss08'",
   "editor.fontWeight": "normal",
-  "editor.fontFamily": "'Hack', 'Fira Code Medium', 'JetBrains Mono Slashed',  'MonoLisa', 'Noto Sans CJK SC'",
+  "editor.fontFamily": "'BitstreamVeraSansMono NF', 'Hack FC Ligatured CCG',  'Fira Code Medium', 'JetBrains Mono Slashed',  'MonoLisa', 'Noto Sans CJK SC'",
   "editor.inlineHints.fontFamily": "'Fira Code', 'Fira Code'",
   "scm.inputFontFamily": "Fira Code",
   "debug.console.fontFamily": "Fira Code",
